@@ -1,6 +1,6 @@
 {
   "name": "pipewrench-zomboid-events",
-  "version": "41.71",
+  "version": "0.41.71",
   "description": "PipeWrench ZomboidEvents Typing",
   "main": "",
   "types": "ZomboidEvents_41.71.d.ts",
